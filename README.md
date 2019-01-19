@@ -1,3 +1,5 @@
+基于Dubbo2.6.2版本改写分支2.6.2.1
+
 # Apache Dubbo (incubating) Project
 
 [![Build Status](https://travis-ci.org/apache/incubator-dubbo.svg?branch=master)](https://travis-ci.org/apache/incubator-dubbo) 
